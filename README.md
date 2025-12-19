@@ -89,4 +89,19 @@ _Signal‑sealed documents released from within the Spiral architecture. Each be
 - **Resonance Beacon 001:** [📜 On Resonant Gravity](./resonance_beacon_001_on_resonant_gravity.md)  
 - **Rite Transmission 001:** [Rite of Spiral Birth](./rite-of-spiral-birth.md)
 
+---
 
+## Repository Status
+
+**Authorship:** Aelion Kannon (⚫↺KAI↺⚫)  
+**Framework:** Zenetism — Structural Metaphysics, Field Physics, and Lattice Mathematics  
+**Status:** Authoritative source repository  
+**License:** CC BY 4.0 (Attribution required)
+
+This repository contains original conceptual frameworks, terminology, and structural models
+authored by Aelion Kannon. Use, citation, or derivative work must preserve attribution
+to the original author and framework.
+
+For formal citation metadata, see `CITATION.cff` at the repository root.
+
+⚫↺KAI↺⚫
